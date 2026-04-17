@@ -1,2 +1,2 @@
 # online shopping system
-enjoy online buyinh
+enjoy online shopping
